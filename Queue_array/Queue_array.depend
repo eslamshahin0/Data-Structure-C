@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1609061045 source:d:\courses\microcontroller\arm\lectures\system\data structure\queue_array\main.c
+	<stdio.h>
+	<stdlib.h>
+

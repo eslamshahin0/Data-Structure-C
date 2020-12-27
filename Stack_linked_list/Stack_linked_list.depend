@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1594823418 source:c:\users\eslam\desktop\data structure\stack_linked_list\stack.c
+	<stdio.h>
+	<stdlib.h>
+	"Stack.h"
+
+1594728629 c:\users\eslam\desktop\data structure\stack_linked_list\stack.h
+
