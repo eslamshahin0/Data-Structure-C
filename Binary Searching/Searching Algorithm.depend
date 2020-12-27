@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1609106365 source:c:\users\eslam\desktop\searching algorithm\main.c
+	<stdio.h>
+	<stdlib.h>
+
